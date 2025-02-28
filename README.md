@@ -131,5 +131,5 @@ git push origin main
 👥 Team Members
 -	Efhan David [Android Flutter]
 -	Ralph Kerby Suela [Desktop]
--	Von Andrei S. Roda [Web]
+-	Von Andrei S. Roda [Web].
 
